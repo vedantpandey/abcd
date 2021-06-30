@@ -1,0 +1,28 @@
+.name {
+  margin-top: 60px;
+  font-size: 40px;
+}
+
+.icon {
+  margin-top: 20px;
+  font-size: 100px;
+}
+
+.temp {
+  margin-top: 47px;
+  font-size: 30px;
+}
+
+.min-temp,
+.max-temp {
+  font-size: 18px;
+}
+
+.min-temp {
+  margin-right: 60px;
+}
+
+.desc {
+  margin-top: 30px;
+  font-size: 26px;
+}
