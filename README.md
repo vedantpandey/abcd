@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 
 A weather app to search for weather of different cities built using React and openweatherapp API.
 
