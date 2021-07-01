@@ -1,3 +1,8 @@
+#Weather App
+
+A weather app to search for weather of different cities built using React and openweatherapp API.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
